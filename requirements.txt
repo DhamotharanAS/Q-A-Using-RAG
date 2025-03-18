@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-text-splitters
+pypdf
+langchain_huggingface
+faiss-cpu
+langchain-groq
+fastapi
+uvicorn
+
